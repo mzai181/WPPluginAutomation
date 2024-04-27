@@ -24,3 +24,8 @@ Remember that, docker is configured as below
 
 https://github.com/mzai181/WPPluginAutomation/assets/132395172/85167d09-a638-4177-b702-f6bebee73000
 
+# Execution
+
+1. Open Up IntelliJ Idea.
+2. Run test cases from run menu.
+
